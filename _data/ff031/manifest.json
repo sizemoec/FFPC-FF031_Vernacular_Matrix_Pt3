@@ -30,12 +30,6 @@
             "id": "https://sizemoec.github.io/FFPC-FF031_Vernacular_Matrix_Pt3/ff031/canvas-1/canvas/transcription.json",
             "label": "Transcription"
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://sizemoec.github.io/FFPC-FF031_Vernacular_Matrix_Pt3/ff031/canvas-1/canvas/transcription--poem.json",
-            "label": "Transcription, Poem"
-          }
         ],
         "items": [
           {
