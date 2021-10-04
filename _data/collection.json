@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "African American Poetry and the Vernacular Matrix Part 3, 9/29/1994" ] },
+    "summary": { "en": [ "00:00 Sherley Anne Williams speaks; 18:20 Alvin Aubert speaks; 19:45 Joanne V. Gabbin instructs participants; 19:52 Darrell Stover addresses the panel; 21:13 Elizabeth Alexander responds to Stover; 21:57 Eleanor W. Traylor responds to Stover; 24:21 Aubert responds to unidentified audience member; 27:36 Shahara Brookins Drew addresses panel; 28:30 Williams responds to Drew; 29:40 Aubert briefly responds; 30:00 Adam David Miller addresses panel on the influence of the Gospel/Spirituals; 30:48 Williams responds to Miller; 33:28 Alexander responds to Williams; 35:10 Williams responds to Alexander; 36:32 Aubert responds to Williams; 38:00 Williams responds; 38:30 Traylor interjects; 42:15 unidentified audience member asks that the panel discusses the future of African American poetry; 50:47 Monifa A. Love addresses panel; 53:40 Mylea Thompson addresses panel" ] },
+    "items": [
+    ]
+}
